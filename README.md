@@ -32,11 +32,10 @@ Run Java class LoadFamilyDatabase.java to load kids.json into database
 	+----+----------+------+
 	|  1 | Aaron    |   45 |
 	|  2 | Kelsey   |   38 |
-	|  3 | Caelin   |   23 |
 	|  4 | Harmon   |   12 |
 	|  5 | Samantha |   10 |
 	|  6 | Allison  |    7 |
 	|  7 | Michael  |    5 |
 	+----+----------+------+
-	7 rows in set (0.007 sec)
+	6 rows in set (0.007 sec)
 
